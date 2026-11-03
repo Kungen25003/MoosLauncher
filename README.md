@@ -23,3 +23,4 @@ It is currently in development!
   - Sign-in data is not sent to any Moss Server (including Launcher)
   - The Launcher doesn't collect usage data
   - A Minecraft account that owns the Java version is required for full acces to play. Moss Launcher does NOT support cracked or pirated copies.
+
