@@ -18,7 +18,7 @@ It is currently in development!
 
   ##Privacy & security
 
-  -Your password is entered only on Microsoft's sign-in page, never in the launcher!
+  - Your password is entered only on Microsoft's sign-in page, never in the launcher!
   - Sign-in tokens are stored only on your computer, in Windows Credential Manager
   - Sign-in data is not sent to any Moss Server (including Launcher)
   - The Launcher doesn't collect usage data
