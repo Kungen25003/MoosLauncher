@@ -16,7 +16,7 @@ It is currently in development!
 
   Moss Launcher uses the Microsoft sign-in tp authenticate players and start the game with their own account. Acces to the Minecraft API is needed to confirm that a player owns the game and load their Minecraft Profile-
 
-  ##Privacy & security
+  ## Privacy & security
 
   - Your password is entered only on Microsoft's sign-in page, never in the launcher!
   - Sign-in tokens are stored only on your computer, in Windows Credential Manager
