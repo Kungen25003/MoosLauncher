@@ -1,11 +1,11 @@
-##MossLauncher,
+## MossLauncher,
 
 Mosslauncher is a free desktop launcher for Minecraft: Java Edition on Windows.
 It is currently in development!
 
 **Moss Launcher isn't an offical Minecraft product. It's not approved or associated with Mojang or Microsoft!**
 
-##Features
+## Features
 
 - Manage several accounts and game instances
 - Install popular mod loades such as Fabric, Forge and Quilt
